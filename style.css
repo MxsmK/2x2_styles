@@ -1,0 +1,117 @@
+.RPN{
+    text-align: center;
+    font-size: 25px;
+}
+.bol{
+    font-size: 25px;
+}
+body{
+    background: url(background.jpg) no-repeat;
+    height: 500px;
+    width: 1250px;
+}
+.left{
+    float: left;
+    margin-left: 100px;
+}
+.center{
+    float: left;
+    margin-left: 250px;
+}
+.right{
+    margin-left: 300px;
+    font-family: sans-serif;
+}
+#ff{
+    font-family: sans-serif;
+}
+#left{
+    text-align: left;
+}
+.login100-form-btn {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 170px;
+    height: 80px;
+    background-color: #333333;
+    border-radius: 10px;
+    margin-left: 1050px;
+    margin-top: 200px;
+  
+    font-family: Poppins-Medium;
+    font-size: 16px;
+    color: #fff;
+    line-height: 1.2;
+  
+    -webkit-transition: all 0.4s;
+    -o-transition: all 0.4s;
+    -moz-transition: all 0.4s;
+    transition: all 0.4s;
+    position: relative;
+    z-index: 1;
+}
+.login100-form-btn-rpn {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 170px;
+    height: 70px;
+    background-color: #333333;
+    border-radius: 10px;
+    margin-left: 1050px;
+    margin-top: 125px;
+  
+    font-family: Poppins-Medium;
+    font-size: 16px;
+    color: #fff;
+    line-height: 1.2;
+  
+    -webkit-transition: all 0.4s;
+    -o-transition: all 0.4s;
+    -moz-transition: all 0.4s;
+    transition: all 0.4s;
+    position: relative;
+    z-index: 1;
+}
+.login100-form-btn-rpn1 {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 170px;
+    height: 70px;
+    background-color: #333333;
+    border-radius: 10px;
+    margin-left: 1050px;
+  
+    font-family: Poppins-Medium;
+    font-size: 16px;
+    color: #fff;
+    line-height: 1.2;
+  
+    -webkit-transition: all 0.4s;
+    -o-transition: all 0.4s;
+    -moz-transition: all 0.4s;
+    transition: all 0.4s;
+    position: relative;
+    z-index: 1;
+}
+.r{
+    float: right;
+}
+#exit{
+    text-decoration: none;
+    color: white;
+}
